@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/practice-login-form/static/css/main.c0b1017d.css",
+    "main.js": "/practice-login-form/static/js/main.1001a530.js",
+    "static/media/bg-intro-desktop.png": "/practice-login-form/static/media/bg-intro-desktop.059183eea52640c5068d.png",
+    "static/media/bg-intro-mobile.png": "/practice-login-form/static/media/bg-intro-mobile.02ce398270ece1769ebc.png",
+    "index.html": "/practice-login-form/index.html",
+    "main.c0b1017d.css.map": "/practice-login-form/static/css/main.c0b1017d.css.map",
+    "main.1001a530.js.map": "/practice-login-form/static/js/main.1001a530.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0b1017d.css",
+    "static/js/main.1001a530.js"
+  ]
+}
